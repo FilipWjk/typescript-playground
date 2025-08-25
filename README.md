@@ -4,7 +4,6 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%3E%3D4.0-blue.svg)](https://www.typescriptlang.org/)
 [![Node](https://img.shields.io/badge/Node-%3E%3D14-green.svg)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 Just experimenting with TypeScript in my free time! This is my personal sandbox for trying out different TypeScript features and patterns.
 
