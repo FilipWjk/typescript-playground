@@ -1,6 +1,12 @@
 # TypeScript Playground 🎮
 
-Just me experimenting with TypeScript in my free time! This is my personal sandbox for trying out different TypeScript features and patterns.
+<!-- Badges -->
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-%3E%3D4.0-blue.svg)](https://www.typescriptlang.org/)
+[![Node](https://img.shields.io/badge/Node-%3E%3D14-green.svg)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+
+Just experimenting with TypeScript in my free time! This is my personal sandbox for trying out different TypeScript features and patterns.
 
 ## What's This About?
 
@@ -54,7 +60,7 @@ ts-node --version
 ts-node playground-simple.ts
 
 # Run the advanced examples
-ts-node playground-clean-advanced.ts
+ts-node playground-advanced.ts
 ```
 
 That's it! The files will execute and show you the output in your terminal.
@@ -74,7 +80,7 @@ I learn best by building things, not just reading about them. This playground le
 typescript-syntax-examples/
 ├── README.md                    # This file
 ├── playground-simple.ts         # Basic concepts & practical examples
-├── playground-clean-advanced.ts # Advanced patterns & enterprise code
+├── playground-advanced.ts       # Advanced patterns & enterprise code
 └── tsconfig.json                # TypeScript configuration
 ```
 
